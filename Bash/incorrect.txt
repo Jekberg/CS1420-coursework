@@ -1,0 +1,9 @@
+#Incorrect
+add $s0 $s1 $z2
+Unrecognised register name z2. 
+lw $t11 70000($s0)
+Out of bound, $t registers range beetween 0 and 9. Immediate must be between -32768 and 32767. 
+subI $s0 $t1 -33
+Unrecognised instruction. 
+adD $2 $s3 $a0
+Unrecognised instruction. Unrecognised register name 2. 
